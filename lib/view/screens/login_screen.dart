@@ -82,7 +82,7 @@ class LoginScreen extends StatelessWidget {
                               SizedBox(height: 20),
                               CustomizableTextFieldwidget(
                                 controller: passwordController,
-                                labelText: 'emailypass',
+                                labelText: 'emilyspass',
                               ),
                               SizedBox(height: 20),
                               Row(
